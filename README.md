@@ -34,6 +34,17 @@ Il codice risiede nei job, script o nei repository di un fornitore storico. Sono
 ## 🛠️ Stack Tecnologico
 Il progetto utilizza principalmente i servizi AWS già in uso dal cliente, integrati in un flusso automatizzato per CI/CD e gestione infrastruttura.
 
+<img src="./images/aws-s3-icon.png" width="26" alt="AWS S3" /> **AWS S3**  
+<img src="./images/aws-athena-icon.png" width="26" alt="AWS Athena" /> **AWS Athena**  
+<img src="./images/aws-redshift-icon.png" width="26" alt="AWS Redshift" /> **AWS Redshift**  
+<img src="./images/aws-glue-icon.png" width="26" alt="AWS Glue" /> **AWS Glue**  
+<img src="./images/aws-appflow-icon.png" width="26" alt="AWS AppFlow" /> **AWS AppFlow**  
+<img src="./images/aws-lambda-icon.png" width="26" alt="AWS Lambda" /> **AWS Lambda**  
+<img src="./images/aws-cloudformation-icon.png" width="26" alt="AWS Cloud Formation" /> **AWS Cloud Formation**  
+<img src="./images/aws-codecommit-icon.png" width="26" alt="AWS Code Commit" /> **AWS Code Commit**  
+<img src="./images/aws-codebuild-icon.png" width="26" alt="AWS Code Build" /> **AWS Code Build**  
+<img src="./images/aws-codepipeline-icon.png" width="26" alt="AWS Code Pipeline" /> **AWS Code Pipeline**  
+
 ---
 
 
